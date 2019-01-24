@@ -6,8 +6,10 @@
         Library Management
         """,
 
-    'author': "OEC_JV",
-    'website': "https://www.odooerpcloud.com",
+
+    'author': "OEC_VALERO",
+    'website': "http://www.soefitecsas.com",
+
 
     'category': 'Tools',
     'version': '0.1',
@@ -18,8 +20,8 @@
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
-        # 'views/views.xml',
-        # 'views/templates.xml',
+        'views/views.xml',
+        'views/templates.xml',
     ],
     'installable': True,
 }
