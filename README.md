@@ -6,7 +6,7 @@ Fecha creacion: 24 enero 2019
 
 * John Valero
 
-* Amaro Pesquero
+* Amaro Pesquero (ok)
 
 * JCM
 
