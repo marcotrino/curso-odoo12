@@ -2,16 +2,6 @@
 
 ## Materiales del curso Odoo 12
 
-Fecha creacion: 24 enero 2019
-
-* John Valero
-
-* Amaro Pesquero (ok)
-
-* JCM
-
-* DAVID 24-ENERO-2019
-
 Fecha modificacion: 12 agosto 2020
 
 * Marco Roa
